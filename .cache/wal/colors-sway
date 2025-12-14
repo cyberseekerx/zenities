@@ -1,0 +1,21 @@
+set $wallpaper /home/ayush/wallpapers/76.jpg
+
+set $background #211921
+set $foreground #ecd9d2
+
+set $color0 #211921
+set $color1 #AF9096
+set $color2 #A4919A
+set $color3 #D69998
+set $color4 #CD9BA2
+set $color5 #EDB2A9
+set $color6 #BFC1B3
+set $color7 #ecd9d2
+set $color8 #a59793
+set $color9 #AF9096
+set $color10 #A4919A
+set $color11 #D69998
+set $color12 #CD9BA2
+set $color13 #EDB2A9
+set $color14 #BFC1B3
+set $color15 #ecd9d2

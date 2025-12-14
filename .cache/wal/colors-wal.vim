@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ayush/wallpapers/76.jpg"
+let background = "#211921"
+let foreground = "#ecd9d2"
+let cursor     = "#ecd9d2"
+
+" Colors
+let color0  = "#211921"
+let color1  = "#AF9096"
+let color2  = "#A4919A"
+let color3  = "#D69998"
+let color4  = "#CD9BA2"
+let color5  = "#EDB2A9"
+let color6  = "#BFC1B3"
+let color7  = "#ecd9d2"
+let color8  = "#a59793"
+let color9  = "#AF9096"
+let color10 = "#A4919A"
+let color11 = "#D69998"
+let color12 = "#CD9BA2"
+let color13 = "#EDB2A9"
+let color14 = "#BFC1B3"
+let color15 = "#ecd9d2"

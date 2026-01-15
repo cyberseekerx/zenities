@@ -1,0 +1,6 @@
+#!/bin/bash
+DISPLAY_NUM=1
+current=$(ddcutil -d $DISPLAY_NUM getvcp 10 | grep -oP 'current value =\s*\K\d+')
+new=$((current - 10))
+[ $new -lt 0 ] && new=0
+ddcutil -d $DISPLAY_NUM setvcp 10 $new --noverify

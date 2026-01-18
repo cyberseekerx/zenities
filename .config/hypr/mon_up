@@ -1,4 +1,5 @@
 #!/bin/bash
+#install ddcutil tool
 DISPLAY_NUM=1
 current=$(ddcutil -d $DISPLAY_NUM getvcp 10 | grep -oP 'current value =\s*\K\d+')
 new=$((current + 10))
